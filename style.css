@@ -1,0 +1,17 @@
+body{
+    background: chocolate;
+}
+.box{
+    
+    margin: 0 auto;
+    background: brown;
+    height: 80vh;
+    width: 100%;
+    
+}
+.content{
+    display: flex;
+    background: f4f4f4;
+    width: 3rem;
+    height: 3rem;
+}
